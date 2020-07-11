@@ -1,3 +1,3 @@
-# FCJois-OFFICIAL
+# FCJois-UNOFFICIAL
 
-FCJois 公式ホームページ
+FCJois 非公式ホームページ

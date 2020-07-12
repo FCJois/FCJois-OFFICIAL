@@ -27,7 +27,7 @@ p {
     text-align: left;
     font-family: serif;
     background-color: #f5e5a6;
-    padding-left: 30px;
+    padding-left: 45px;
 }
 .heading-typeA {
     background: #eedb8fa3;
@@ -38,7 +38,7 @@ p {
     text-align: center;
 }
 h2 {
-    line-height: 30px;
+    line-height: 45px;
     margin: 0;
 }
 h3 {

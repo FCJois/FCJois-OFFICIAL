@@ -23,11 +23,11 @@ p {
 
 /* 見出し */
 .pagetitle {
-    font-size: 19px;
+    font-size: 9px;
     text-align: left;
     font-family: serif;
     background-color: #f5e5a6;
-    padding-left: 70px;
+    padding-left: 30px;
 }
 .heading-typeA {
     background: #eedb8fa3;
@@ -38,7 +38,7 @@ p {
     text-align: center;
 }
 h2 {
-    line-height: 70px;
+    line-height: 30px;
     margin: 0;
 }
 h3 {

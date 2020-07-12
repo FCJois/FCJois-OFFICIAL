@@ -1,9 +1,18 @@
 body {
     background: linear-gradient( -135deg, #B67B03, #DAAF08, #FEE9A0, #DAAF08, #B67B03);
     color: #333333;
+    font-family: sans-serif;
 }
-
-
+p {
+    line-height: 1.429;
+    font-size: 14px;
+}
+.saa {
+    font-size: 70px;
+    transform: rotate(-10deg);
+    text-align: center;
+    font-weight: bold;
+}
 /* 見出し */
 .pagetitle {
     font-size: 24px;

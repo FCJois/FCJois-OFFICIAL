@@ -3,11 +3,22 @@ body {
     color: #333333;
 }
 
+
 /* 見出し */
 .pagetitle {
     font-size: 24px;
     text-align: center;
     font-family: serif;
+}
+.heading-typeA {
+    background: #eedb8fa3;
+    margin: 3%;
+    padding-top: 10px;
+    
+}
+h3 {
+    border-left: solid 5px #3f2b05;
+    margin-left: 10px;
 }
 
 /* 表 */
@@ -26,3 +37,4 @@ table td{
     border: 3px solid #4c2f18;
     padding: 5px 10px;
 }
+

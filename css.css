@@ -30,9 +30,10 @@ p {
     padding-left: 45px;
 }
 .heading-typeA {
-    background: #eedb8fa3;
+    background: linear-gradient( -135deg, #b47f1498, #dbb62098, #fbebb298, #d6b11b98, #af7b1398);
     margin: 3%;  
     padding-top: 15px;
+    border: 0.5px solid #daaf08;
 }
 .team {
     text-align: center;

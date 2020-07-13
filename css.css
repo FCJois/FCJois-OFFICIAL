@@ -1,3 +1,4 @@
+/* 全体的 */
 body {
     background: linear-gradient( -135deg, #FEE9A0, #DAAF08, #B67B03, #DAAF08, #FEE9A0, #B67B03);
     color: #333333;
@@ -8,6 +9,8 @@ p {
     line-height: 1.429;
     font-size: 14px;
 }
+
+/*　特別　*/
 .saa1 {
     text-align: center;
 }
@@ -46,8 +49,10 @@ h3 {
     border-left: solid 5px #8d8980;
     margin-left: 15px;
     margin-top: 0;
-}
-
+    background-color: #f5e5a680;;
+    margin-right: 80%;
+    padding-left: 15px;
+    line-height: 1.4;}
 /* 表 */
 table {
     font-size: 14px;

@@ -1,7 +1,7 @@
 /* 全体的 */
 body {
     background: linear-gradient( -135deg, #FEE9A0, #DAAF08, #B67B03, #DAAF08, #FEE9A0, #B67B03);
-    color: #333333;
+    color: #0c042c;
     font-family: sans-serif;
     margin: 0;
     -webkit-text-size-adjust: 100%;
@@ -37,7 +37,7 @@ figure {
     font-size: 20px;
     text-align: left;
     font-family: serif;
-    background-color: #08031f; 
+    background-color: #0c042c; 
     padding-left: 80px;
     color: #eeeeee;
 

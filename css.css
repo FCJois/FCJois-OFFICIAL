@@ -1,7 +1,7 @@
 /* 全体的 */
 body {
     background: linear-gradient( -135deg, #FEE9A0, #DAAF08, #B67B03, #DAAF08, #FEE9A0, #B67B03);
-    color: #0c042c;
+    color: #0f0536;
     font-family: sans-serif;
     margin: 0;
     -webkit-text-size-adjust: 100%;
@@ -30,6 +30,9 @@ figure {
     width: 100%;
     height: auto;
 }
+.pra {
+    text-align: center
+}
 
 
 /* 見出し */
@@ -37,7 +40,7 @@ figure {
     font-size: 20px;
     text-align: left;
     font-family: serif;
-    background-color: #0c042c; 
+    background-color: #0f0536; 
     padding-left: 80px;
     color: #eeeeee;
 

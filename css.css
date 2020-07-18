@@ -26,6 +26,7 @@ p {
 
 /* 写真 */
 figure {
+    margin-left: 0;
     width: 100%;
     height: auto;
 }

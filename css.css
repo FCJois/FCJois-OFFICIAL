@@ -24,6 +24,12 @@ p {
     margin: 0;
 }
 
+/* 写真 */
+figure {
+    width: 100%;
+    height: auto;
+}
+
 
 /* 見出し */
 .pagetitle {

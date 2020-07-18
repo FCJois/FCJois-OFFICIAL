@@ -50,9 +50,11 @@ h3 {
     margin-left: 15px;
     margin-top: 0;
     background-color: #f5e5a680;;
-    margin-right: 80%;
+    margin-right: 70%;
     padding-left: 15px;
-    line-height: 1.4;}
+    line-height: 1.4;
+    font-size: 105%;
+}
 /* 表 */
 table {
     font-size: 14px;

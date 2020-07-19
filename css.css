@@ -24,6 +24,7 @@ p {
     font-weight: bold;
     display:inline-block;
     margin: 0;
+    padding-bottom: 5px;
 }
 
 /*　特別 2　*/
@@ -59,7 +60,7 @@ p {
 .partner{
     text-align: center;
     background-color: #ffffff;
-    padding: 5px;
+    padding-top: 80px;
     text-decoration-color: none;
 }
 a:hover img {
@@ -83,7 +84,9 @@ a{
     margin: 0;
     padding: 0;
     color: #eeeeee;
-    line-height: 20xp;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 .heading-typeA {
     background: linear-gradient( -135deg, #b47f1498, #dbb62098, #fbebb298, #d6b11b98, #af7b1398);
@@ -106,5 +109,16 @@ h3 {
     box-shadow: 0px -6px 5px -3px rgba(247, 198, 104, 0.2)
     inset,0px 8px 4px -2px #5d4534 ;
     width: auto;
-
 }
+
+
+
+
+<div>
+    <ul>
+        <li><a href="#">チケット・グッズ販売</a></li>
+        <li><a href="#">メンバー募集</a></li>
+        <li><a href="#">FCJoisの歩み</a></li>
+        <li><a href="#">練習試合その他お問い合わせ</a></li>
+    </ul>
+</div>

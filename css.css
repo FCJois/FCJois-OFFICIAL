@@ -11,6 +11,8 @@ p {
     font-size: 14px;
 }
 
+/* ハンバーガーメニュー */
+
 /*　特別 1　*/
 .saa1 {
     text-align: center;
@@ -28,9 +30,17 @@ p {
 
 /* チーム理念 */
 .team{
-text-align: center;
+    text-align: center;
 }
-
+.rinenn{
+    display: inline-block;
+    font-size: 3vw;
+    border: solid 5px #5d4534;
+    border-radius: 3em .5em 2em .5em/.4em 2em .5em 3em;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 0em10px;
+}
 /* 写真 */
 .rogo{
     height: auto;

@@ -40,8 +40,11 @@ p {
 .pra {
     text-align: center
 }
-
-
+.partner{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 5px;
+}
 /* 見出し */
 .pagetitle {
     font-size: 20px;

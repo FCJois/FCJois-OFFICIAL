@@ -5,6 +5,7 @@ body {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     margin-top: -200px;
+    top: 0;
 }
 p {
     line-height: 1.429;
@@ -81,6 +82,7 @@ a{
     z-index: 1;
     line-height: 67px;
     position: absolute;
+    top: 0;
 }
 
 .pagetitle {

@@ -81,6 +81,7 @@ a{
     z-index: 1;
     line-height: 67px;
     padding-top: 200px;
+    margin-top: -200px;
 
 
 }
@@ -95,7 +96,6 @@ a{
     top: 0;
     width: 100%;
     z-index: 2;
-    padding-top: 200px;
 }
 .heading-typeA {
     background: linear-gradient( -135deg, #b47f1498, #dbb62098, #fbebb298, #d6b11b98, #af7b1398);

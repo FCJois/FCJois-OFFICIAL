@@ -44,6 +44,13 @@ p {
     text-align: center;
     background-color: #ffffff;
     padding: 5px;
+    text-decoration-color: none;
+}
+a:hover img {
+    border: solid 2px silver;
+}
+a{
+    text-decoration: none;
 }
 /* 見出し */
 .pagetitle {

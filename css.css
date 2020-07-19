@@ -87,10 +87,9 @@ a{
     text-align: left;
     font-family: serif;
     background-color: #0f053678; 
-    margin-top: -100px;
-    padding-top: 100px;
     color: #eeeeee;
     position: fixed;
+    top: 0;
     width: 100%;
     z-index: 2;
 }

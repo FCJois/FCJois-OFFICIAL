@@ -60,7 +60,6 @@ p {
 .partner{
     text-align: center;
     background-color: #ffffff;
-    padding-top: 80px;
     text-decoration-color: none;
 }
 a:hover img {
@@ -76,17 +75,24 @@ a{
     display: inline-block;
 }
 /* 見出し */
+.image {
+    background-color: #0f0536; 
+    width: 100%;
+    z-index: 1;
+    line-height: 67px;
+}
+
 .pagetitle {
     font-size: 20px;
     text-align: left;
     font-family: serif;
-    background-color: #0f0536; 
+    background-color: #0f053678; 
     margin: 0;
     padding: 0;
     color: #eeeeee;
     position: fixed;
     width: 100%;
-    z-index: 1;
+    z-index: 2;
 }
 .heading-typeA {
     background: linear-gradient( -135deg, #b47f1498, #dbb62098, #fbebb298, #d6b11b98, #af7b1398);

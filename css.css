@@ -3,16 +3,15 @@ body {
     background: linear-gradient( -135deg, #FEE9A0, #DAAF08, #B67B03, #DAAF08, #FEE9A0, #B67B03);
     color: #0f0536;
     font-family: sans-serif;
-    margin-top: 0;
-    padding: 0;
     -webkit-text-size-adjust: 100%;
+    margin: 0;
 }
 p {
     line-height: 1.429;
     font-size: 14px;
 }
 
-/*　特別　*/
+/*　特別 1　*/
 .saa1 {
     text-align: center;
 }
@@ -25,10 +24,17 @@ p {
     margin: 0;
 }
 
+/*　特別 2　*/
+
+/* チーム理念 */
+.team{
+text-align: center;
+}
+
 /* 写真 */
 .rogo{
     height: auto;
-    padding-top: 8px;
+    padding-top: 5px;
     padding-left: 15px;
     margin: 0;
 }
@@ -52,6 +58,12 @@ a:hover img {
 a{
     text-decoration: none;
 }
+.prapic{
+    padding: 10px;
+    border: solid 5px #5d4534;
+    border-radius: 3em .5em 2em .5em/.4em 2em .5em 3em;
+    display: inline-block;
+}
 /* 見出し */
 .pagetitle {
     font-size: 20px;
@@ -61,6 +73,7 @@ a{
     margin: 0;
     padding: 0;
     color: #eeeeee;
+    line-height: 20xp;
 }
 .heading-typeA {
     background: linear-gradient( -135deg, #b47f1498, #dbb62098, #fbebb298, #d6b11b98, #af7b1398);
@@ -68,21 +81,20 @@ a{
     padding-top: 15px;
     border: 0.5px solid #daaf08;
 }
-.team {
-    text-align: center;
-}
 h2 {
     line-height: 60px;
     padding: 0;
     margin: 0;
 }
 h3 {
-    border-left: solid 5px #8d8980;
     margin-left: 15px;
     margin-top: 0;
-    background-color: #f5e5a680;;
     margin-right: 55%;
     padding-left: 15px;
     line-height: 1.4;
-    font-size: 105%;
+    font-size: 120%;
+    box-shadow: 0px -6px 5px -3px rgba(247, 198, 104, 0.2)
+    inset,0px 8px 4px -2px #5d4534 ;
+    width: auto;
+
 }

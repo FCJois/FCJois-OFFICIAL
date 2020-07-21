@@ -64,7 +64,7 @@ label .burger::after{
     top: 0;
     bottom: 0;
     right: 0;
-    width: 25rem;
+    width: 150%;
     background: linear-gradient( -135deg, #cab25b, #DAAF08, #b48017, #b39935, #FEE9A0, #B67B03);
     z-index: -1;
     content: "";
@@ -73,9 +73,9 @@ label .burger::after{
     transition: transform 0.6s;
 }
 #menu a {
-    margin: 1.3rem 0;
+    margin: 1rem 0;
     padding: 0.2rem 3rem;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-family: 'Times New Roman', Times, serif;
     color: #fff;
     text-decoration: none;

@@ -40,7 +40,7 @@ label .burger::before{
     top: 0;
     transform-origin: top left;
     background: linear-gradient( -135deg, #cab25b, #ddb515, #8a600c, #d4b32f, #FEE9A0, #B67B03);
-    
+
 }
 label .burger .bar{
     top: 45%;
@@ -232,7 +232,9 @@ h3 {
     font-size: 120%;
     box-shadow: 0px -6px 5px -3px rgba(247, 198, 104, 0.2)
     inset,0px 8px 4px -2px #5d4534 ;
-    width: auto;
+    width: 10rem;
+    background: linear-gradient( -135deg, #cab25b, #DAAF08, #b48017, #b39935, #FEE9A0, #B67B03);
+    text-align: center;
 }
 
 

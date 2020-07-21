@@ -39,13 +39,17 @@ label .burger .bar {
 label .burger::before{
     top: 0;
     transform-origin: top left;
+    background: linear-gradient( -135deg, #cab25b, #ddb515, #8a600c, #d4b32f, #FEE9A0, #B67B03);
+    
 }
 label .burger .bar{
     top: 45%;
+    background: linear-gradient( -135deg, #cab25b, #DAAF08, #b48017, #b39935, #FEE9A0, #B67B03);
 }
 label .burger::after{
     bottom: 0;
     transform-origin: bottom left;
+    background: linear-gradient( -135deg, #cab25b, #DAAF08, #b48017, #b39935, #FEE9A0, #B67B03);
 }
 #menu{
     position: fixed;
@@ -73,10 +77,9 @@ label .burger::after{
 }
 #menu a {
     margin: 1rem 0;
-    padding: 0.3rem 5vw;
+    padding: 0.3rem 2vw;
     font-size: 1.1rem;
     font-family: 'Times New Roman', Times, serif;
-    color: #fff;
     text-decoration: none;
     transform: translateX(400%);
     transition: all 0.15s,transform 0.3s;

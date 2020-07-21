@@ -63,7 +63,7 @@ label .burger::after{
     top: 0;
     bottom: 0;
     right: 0;
-    width: 50vw;
+    width: 240px;
     background: linear-gradient( -135deg, #cab25b, #DAAF08, #b48017, #b39935, #FEE9A0, #B67B03);
     z-index: -1;
     content: "";
